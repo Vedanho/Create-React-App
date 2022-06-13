@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  background-color: #ffffff;
+  align-items: center;
+}
+.ul_1 {
+  display: flex;
+  justify-content: space-around;
+  width: 30%;
+  list-style-type: none;
+  font-size: 24px;
+  color: #003399;
+}
+.logo {
+  height: 20%;
+}
+.line {
+    width: 80%;
+}
